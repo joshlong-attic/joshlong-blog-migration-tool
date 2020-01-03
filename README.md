@@ -1,2 +1,2 @@
-# joshlong-blog-migration-tool
-this contains the code i used to migrate to jBake back in 2015.
+# blawg-migration
+home of the jbake migration for my blog
